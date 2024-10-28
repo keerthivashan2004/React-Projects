@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": "d603",
+      "username": "yng_vashan_.144",
+      "email": "keerthivashan272@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "be94",
+      "username": "727723eucy027@skcet.ac.in",
+      "email": "keerthivashan272@gmail.com",
+      "password": "2222"
+    },
+    {
+      "id": "952c",
+      "username": "keerthivashan2004",
+      "email": "keerthivashan272@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "3f3f",
+      "username": "727723eucy027@skcet.ac.in",
+      "email": "keerthivashan272@gmail.com",
+      "password": "1111"
+    }
+  ],
+  "transfers": [
+    {
+      "id": "99eb",
+      "recipient": "1234",
+      "amount": 10,
+      "date": "2024-10-28T06:00:53.962Z"
+    },
+    {
+      "id": "e28f",
+      "recipient": "7277",
+      "amount": 20,
+      "date": "2024-10-28T06:01:23.770Z"
+    }
+  ]
+}
